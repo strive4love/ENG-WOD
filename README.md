@@ -63,3 +63,5 @@ occupy	英[ˈɒkjupaɪ] 美[ˈɑ:kjupaɪ] vt.	占领; 使用
  revision	英[rɪˈvɪʒn] 美[rɪˈvɪʒən] n.	修订，修改 
 minus	英[ˈmaɪnəs] 美[ˈmaɪnəs] prep. （表示运算） 减去; n.	减号;负号
 daemon 英 ['diːmən]  美 ['dimən] n. 守护进程；后台程序
+
+immediate adj.直接的，立即的
