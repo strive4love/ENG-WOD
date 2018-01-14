@@ -65,3 +65,5 @@ minus	英[ˈmaɪnəs] 美[ˈmaɪnəs] prep. （表示运算） 减去; n.	减号
 daemon 英 ['diːmən]  美 ['dimən] n. 守护进程；后台程序
 
 immediate adj.直接的，立即的
+
+ultimate 英 ['ʌltɪmət]  美 [ˈʌltəmɪt]  adj. 最终的；极限的；根本的
